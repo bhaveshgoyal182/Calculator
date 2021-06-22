@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    text-align: center;
+    margin: 2rem;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 1.5rem;
+    padding: .5rem;
+    border-radius: .8rem;
+    outline: none;
+    color: #16C79A;
+    background-color: #EAFFD0;
+    width: 90%;
+    margin-bottom: 1rem;
+}
+button{
+    font-size: 1.5rem;
+    height: 3rem;
+    width:4.8rem;
+    padding: .4rem;
+    border-radius: 1rem;
+    color: #16C79A;
+    background-color: #EAFFD0;
+    margin: .2rem;
+}
+.calculator{
+    display: inline-block;
+    background-color:#6DDCCF ;
+    padding: 2rem;
+    border-radius: 2rem;
+}
